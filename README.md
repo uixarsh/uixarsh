@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Graphics Designer & FrontEnd Developer.</h3>
 <img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" width="55%"></img>
 
+
+
 - 🌱 I’m currently learning **Front-end Development**
 
 - 👨‍💻 All of my projects are available at [https://singhalarsh.github.io/my-site/](https://singhalarsh.github.io/my-site/)
@@ -10,6 +12,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/arsh-singhal-316450209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsh-singhal-316450209" height="30" width="40" /></a>
+<a href="https://instagram.com/arsh_uix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arsh_uix" height="30" width="40" /></a>
+<a href="https://dribbble.com/singhalarsh2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="singhalarsh2001" height="30" width="40" /></a>
+<a href="https://www.behance.net/arshsinghal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="arshsinghal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/reach2arsh2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="reach2arsh2022" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/uixarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uixarsh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
