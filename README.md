@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Arsh Singhal, and I'm passionate about data science.</p>
+<p align="left">I'm Arsh Singhal, a Software Engineer.</p>
 
 ###
 
@@ -10,7 +10,22 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Electronics Engineer<br>📚 I'm currently learning Python with Data Science.<br>🎲 Fun fact: There are around 700 separate programming languages.</p>
+<p align="left">👨🏻‍💻 Electronics Engineer<br>🔧 I work on backend services and modern UI components.</p>
+
+###
+
+<h2 align="left">Technologies I work with</h2>
+
+###
+
+<ul>
+  <li>Develop and maintain backend services and REST APIs / RESTful APIs using FastAPI and Python.</li>
+  <li>Work with Postgres and SQLite databases, using SQLModel for ORM tasks.</li>
+  <li>Implement CRUD operations and secure authentication with OAuth2 and JWT.</li>
+  <li>Manage database migrations and schema updates with Alembic.</li>
+  <li>Manage codebases using GitLab, and design modern UI components using Figma.</li>
+  <li>Tools used: Python, FastAPI, Postgres, Git, GitLab</li>
+</ul>
 
 ###
 
@@ -30,9 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-
-###
-
 ###
 
 <h2 align="left">Stats</h2>
@@ -43,5 +55,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=uixarsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uixarsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
